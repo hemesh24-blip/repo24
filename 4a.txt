@@ -1,3 +1,7 @@
 welcome to git hub
 thank you 
+<<<<<<< HEAD
 bye hi 
+=======
+bye bye
+>>>>>>> c442262 (committing 3rd line in fb1 branch)
